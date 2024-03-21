@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="#"><img src="https://i.pinimg.com/564x/f0/1d/9c/f01d9cb459600f5f7bbeb6816a7d9f29.jpg" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="#"Cong Quan</a>!</h1>
+<h1 align="center">Hi, I'm <a href="#"Cong Quan</a>Cong Quan!</h1>
 <h1 align="center">Welcome to my GitHub profile~❤</h1>
 
 <p align="center">
