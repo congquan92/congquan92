@@ -1,5 +1,8 @@
-<p align="center">
-  <a href="#"><img src="https://i.pinimg.com/564x/f0/1d/9c/f01d9cb459600f5f7bbeb6816a7d9f29.jpg" alt="Banner"></a>
+<p align="center" style =" width: 100%;
+              height:100px;">
+  <a href="#" style =" width: 100%;
+    height: 100%;
+    object-fit: cover;"><img src="https://i.pinimg.com/originals/6f/40/01/6f40010dbf9ad18584707eb0fafe4a9b.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="#"Cong Quan</a>Cong Quan!</h1>
