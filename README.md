@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://i.pinimg.com/originals/6f/40/01/6f40010dbf9ad18584707eb0fafe4a9b.gif" alt="Banner" width="100%" height="150px" style="object-fit: cover; border-radius: 12px;">
+    <img src="https://i.pinimg.com/originals/79/28/79/7928798bbdeda1d1cb82adb1f14e99cf.gif" alt="Banner" width="100%" height="350px" style="object-fit: cover; border-radius: 12px;">
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/af/2e/62/af2e6218fe3c3cb020d153553d082b3f.jpg" alt="Avatar" width="220" height="220" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+  <img src="https://i.pinimg.com/originals/0d/5a/85/0d5a85ee0f13f0a73dc7d43fd6de8ef2.gif" alt="Avatar" width="220" height="220" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center" style="margin-top: 20px; font-size: 16px;">
