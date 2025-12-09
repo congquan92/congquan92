@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi, I'm <a href="#" style="color: #9b59b6; text-decoration: none;">Cong Quan</a>! 👋
+  Hi, I'm <a href="https://nguyencongquan.id.vn/" style="color: #9b59b6; text-decoration: none;">Cong Quan</a>! 👋
 </h1>
 <h3 align="center" style="font-weight: 500; color: #555;">
   Welcome to my GitHub profile ~ ❤
