@@ -11,10 +11,6 @@
   Welcome to my GitHub profile ~ ❤
 </h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0d/5a/85/0d5a85ee0f13f0a73dc7d43fd6de8ef2.gif" alt="Avatar" width="220" height="220" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
-</p>
-
 <p align="center" style="margin-top: 20px; font-size: 16px;">
   <a href="#" style="margin: 0 10px; text-decoration: none; color: #6f42c1; font-weight: 600;">Official Website</a> |
   <a href="#" style="margin: 0 10px; text-decoration: none; color: #1da1f2; font-weight: 600;">Twitter</a> |
