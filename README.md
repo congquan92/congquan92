@@ -13,8 +13,8 @@
 
 <p align="center" style="margin-top: 20px; font-size: 16px;">
   <a href="https://nguyencongquan.id.vn" style="margin: 0 10px; text-decoration: none; color: #6f42c1; font-weight: 600;">Official Website</a> |
-  <a href="#" style="margin: 0 10px; text-decoration: none; color: #1da1f2; font-weight: 600;">Twitter</a> |
-  <a href="#" style="margin: 0 10px; text-decoration: none; color: #7289da; font-weight: 600;">Discord</a> |
-  <a href="#" style="margin: 0 10px; text-decoration: none; color: #0077b5; font-weight: 600;">LinkedIn</a> |
-  <a href="#" style="margin: 0 10px; text-decoration: none; color: #9146ff; font-weight: 600;">Twitch</a>
+  <a href="https://www.facebook.com/cucngau.quan/" style="margin: 0 10px; text-decoration: none; color: #1da1f2; font-weight: 600;">Facebook</a> |
+  <!-- <a href="#" style="margin: 0 10px; text-decoration: none; color: #7289da; font-weight: 600;">Discord</a> | -->
+  <a href="https://www.linkedin.com/in/nguyencongquan255/" style="margin: 0 10px; text-decoration: none; color: #0077b5; font-weight: 600;">LinkedIn</a> |
+  <!-- <a href="#" style="margin: 0 10px; text-decoration: none; color: #9146ff; font-weight: 600;">Twitch</a> -->
 </p>
