@@ -14,16 +14,25 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials:
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-congquan92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/congquan92)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyencongquan.id.vn-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguyencongquan.id.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nguyencongquan255-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyencongquan255)
-[![Facebook](https://img.shields.io/badge/Facebook-cucngau.quan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cucngau.quan/)
-
-</div>
+<p>
+  <a href="https://www.facebook.com/cucngau.quan/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/cucngau.quan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyencongquan255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/congquan92">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://nguyencongquan.id.vn">
+    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -75,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=congquan92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nguyen Cong Quan GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=congquan92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=congquan92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nguyen Cong Quan GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=congquan92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
   <br/><br/>
   <img width="100%" src="https://streak-stats.demolab.com/?user=congquan92&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
