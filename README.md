@@ -92,14 +92,9 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/congquan92/congquan92/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/congquan92/congquan92/output/github-snake.svg" />
-    <img alt="GitHub contribution snake for congquan92" src="https://raw.githubusercontent.com/congquan92/congquan92/output/github-snake.svg" />
-  </picture>
+  <img width="100%" src="https://ghchart.rshah.org/7aa2f7/congquan92" alt="Nguyen Cong Quan GitHub Contributions" />
 </div>
 
 ---
